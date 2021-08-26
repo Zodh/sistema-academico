@@ -11,7 +11,7 @@
 - Abra a pasta 'Sistema-Academico-SI3P12-UNIP-main' como sendo um projeto.
 - Coloque o SDK do projeto na versão 15 ou superior.
 ### Testes
-- Vá no package 'src/teste' e seleciona o arquivo 'TesteDeBusca.class'
+- Vá no package 'src/teste' e seleciona o arquivo 'TesteDeBusca'
 - Adicione o JUnit ao classpath (eu utilizo a versão 4.13.1)
 
 Reinicie a IDE. Pronto, o projeto irá rodar normalmente =D
@@ -20,4 +20,4 @@ Reinicie a IDE. Pronto, o projeto irá rodar normalmente =D
 
 - Projeto escrito em português para facilitar o entendimento do mesmo para terceiros.
 
-- Este projeto não está atualizado de acordo com minhas habilidades atuais em programação - e apesar de abordar levemente, não aborda as melhores práticas da melhor forma.
+- Este projeto não está atualizado de acordo com minhas habilidades atuais em programação e apesar de abordar levemente, não aborda as melhores práticas da melhor forma.
